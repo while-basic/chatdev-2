@@ -1,38 +1,3 @@
-<p align="center">
-    <img src="./screenshots/chatgpt_architecture.svg">
-</p>
-<h1 align="center">ChatDev IDE: Building Your AI Agent</h1>
-
-<div align="center">
-
-[![author][author-image]][author-url]
-[![license][license-image]][license-url]
-[![release][release-image]][release-url]
-[![last commit][last-commit-image]][last-commit-url]
-[![discord][discord-image]][discord-url]
-
-English &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH-CN.md)
-
-<a href="https://chrome.google.com/webstore/detail/chatdev-visualize-your-ai/dopllopmmfnghbahgbdejnkebfcmomej?utm_source=github"><img src="./screenshots/chrome-logo.png" width="200" alt="Get ChatDev for Chromium"></a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/ceoneifbmcdiihmgfjeodiholmbpmibm?utm_source=github"><img src="./screenshots/edge-logo.png" width="160" alt="Get ChatDev for Microsoft Edge"></a>
-
-
-[Screenshot](#-screenshot) &nbsp;&nbsp;|&nbsp;&nbsp; [GameMode](#-game-mode) &nbsp;&nbsp;|&nbsp;&nbsp; [ChatMode](#-chat-mode) &nbsp;&nbsp;|&nbsp;&nbsp; [PromptIDE](#-prompt-ide) &nbsp;&nbsp;|&nbsp;&nbsp; [Bots](#-bots) &nbsp;&nbsp;|&nbsp;&nbsp; [Installation](#-installation) &nbsp;&nbsp;
-
-[author-image]: https://img.shields.io/badge/author-10cl-blue.svg
-[author-url]: https://github.com/10cl
-[license-image]: https://img.shields.io/github/license/10cl/chatdev?color=blue
-[license-url]: https://github.com/10cl/chatdev/blob/main/LICENSE
-[release-image]: https://img.shields.io/github/v/release/10cl/chatdev?color=blue
-[release-url]: https://github.com/10cl/chatdev/releases/latest
-[last-commit-image]: https://img.shields.io/github/last-commit/10cl/chatdev?label=last%20commit
-[last-commit-url]: https://github.com/10cl/chatdev/commits
-[discord-image]: https://img.shields.io/discord/977885982579884082?logo=discord
-[discord-url]: https://discord.gg/fdjWfgGPjb
-
-</div>
-
-
 ChatDev IDE is a tools for building your AI agent, Whether it's NPCs in games or powerful agent tools, you can design what you want for this platform.
 
 It accelerates prompt engineering through **JavaScript Support** that allows implementing complex prompting techniques.
